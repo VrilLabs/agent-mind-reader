@@ -1,4 +1,4 @@
-# Agent-Mind-Reader
+# Agent Mind Reader
 ***For educational purposes only***
 
 <p align="center">
