@@ -1,4 +1,5 @@
-# Agent-Mind-Reader (v3)
+# Agent-Mind-Reader
+***For educational purposes only***
 
 <p align="center">
   <img src="assets/stats.jpg" alt="Agent mind reading stats" width="800">
@@ -168,3 +169,14 @@ Captures are written to `extract/captures/` and surface immediately via
 `/extract` and inside `/harvest`. The self-source endpoint defaults to
 `http://localhost:8787` and is overridable via `MIND_READER_SELF_URL` (so the
 engine can ingest the probe through a tunnel too).
+
+## License
+
+*Copyright (c) 2026 VLABS, LLC. All rights reserved.* <br>
+*[VRIL LABS Open Source License v1.0](https://github.com/VRIL-LABS/vril-zip/blob/main/LICENSE) — https://vril.li/license*.
+
+---
+
+<div align="center">
+  <sub>Built by <strong>VRIL LABS</strong> · Ancient Knowledge · Future Technology</sub>
+</div>
