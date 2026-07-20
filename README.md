@@ -45,7 +45,7 @@ probe/
   harvest.py          portable stdlib-HTTP client (harvest/snapshot/verify)
   cloudflared         bundled Linux amd64 binary
 client/
-  mind_reader_client.py  Textual TUI (unchanged, still works)
+  mind_reader_client.py  Textual TUI (dashboard and TUI both work)
 ```
 
 ## Quick start
