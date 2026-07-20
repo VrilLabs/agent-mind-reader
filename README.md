@@ -19,7 +19,7 @@ entrypoint.
   a child — auto-restart + trycloudflare-URL capture to `mind_reader.url`.
   No more "probe dies ~20s after launch" / broken tunnel.
 - **No `source venv`.** Uses `sys.executable`; avoids the scoped-credential
-  guard that broke background launches in coding-agent sandboxes.
+  guard that breaks background launches in coding-agent sandboxes.
 - **Auto-surface discovery.** `/discover` generically detects the agent's web
   framework (aiohttp / Flask / FastAPI / Starlette / Django) and subsystems
   (GraphQL, SQLAlchemy, httpx, redis, celery, …) by scanning `sys.modules`/
