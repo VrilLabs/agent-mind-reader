@@ -1,0 +1,4727 @@
+{
+  "data": {
+    "countries": [
+      {
+        "code": "AD",
+        "capital": "Andorra la Vella",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde6\ud83c\udde9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "ca",
+            "name": "Catalan"
+          }
+        ],
+        "name": "Andorra"
+      },
+      {
+        "code": "AE",
+        "capital": "Abu Dhabi",
+        "currency": "AED",
+        "emoji": "\ud83c\udde6\ud83c\uddea",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "United Arab Emirates"
+      },
+      {
+        "code": "AF",
+        "capital": "Kabul",
+        "currency": "AFN",
+        "emoji": "\ud83c\udde6\ud83c\uddeb",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ps",
+            "name": "Pashto"
+          },
+          {
+            "code": "uz",
+            "name": "Uzbek"
+          },
+          {
+            "code": "tk",
+            "name": "Turkmen"
+          }
+        ],
+        "name": "Afghanistan"
+      },
+      {
+        "code": "AG",
+        "capital": "Saint John's",
+        "currency": "XCD",
+        "emoji": "\ud83c\udde6\ud83c\uddec",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Antigua and Barbuda"
+      },
+      {
+        "code": "AI",
+        "capital": "The Valley",
+        "currency": "XCD",
+        "emoji": "\ud83c\udde6\ud83c\uddee",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Anguilla"
+      },
+      {
+        "code": "AL",
+        "capital": "Tirana",
+        "currency": "ALL",
+        "emoji": "\ud83c\udde6\ud83c\uddf1",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sq",
+            "name": "Albanian"
+          }
+        ],
+        "name": "Albania"
+      },
+      {
+        "code": "AM",
+        "capital": "Yerevan",
+        "currency": "AMD",
+        "emoji": "\ud83c\udde6\ud83c\uddf2",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "hy",
+            "name": "Armenian"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Armenia"
+      },
+      {
+        "code": "AO",
+        "capital": "Luanda",
+        "currency": "AOA",
+        "emoji": "\ud83c\udde6\ud83c\uddf4",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Angola"
+      },
+      {
+        "code": "AQ",
+        "capital": null,
+        "currency": null,
+        "emoji": "\ud83c\udde6\ud83c\uddf6",
+        "continent": {
+          "code": "AN",
+          "name": "Antarctica"
+        },
+        "languages": [],
+        "name": "Antarctica"
+      },
+      {
+        "code": "AR",
+        "capital": "Buenos Aires",
+        "currency": "ARS",
+        "emoji": "\ud83c\udde6\ud83c\uddf7",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "gn",
+            "name": "Guarani"
+          }
+        ],
+        "name": "Argentina"
+      },
+      {
+        "code": "AS",
+        "capital": "Pago Pago",
+        "currency": "USD",
+        "emoji": "\ud83c\udde6\ud83c\uddf8",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "sm",
+            "name": "Samoan"
+          }
+        ],
+        "name": "American Samoa"
+      },
+      {
+        "code": "AT",
+        "capital": "Vienna",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde6\ud83c\uddf9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "de",
+            "name": "German"
+          }
+        ],
+        "name": "Austria"
+      },
+      {
+        "code": "AU",
+        "capital": "Canberra",
+        "currency": "AUD",
+        "emoji": "\ud83c\udde6\ud83c\uddfa",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Australia"
+      },
+      {
+        "code": "AW",
+        "capital": "Oranjestad",
+        "currency": "AWG",
+        "emoji": "\ud83c\udde6\ud83c\uddfc",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          },
+          {
+            "code": "pa",
+            "name": "Panjabi / Punjabi"
+          }
+        ],
+        "name": "Aruba"
+      },
+      {
+        "code": "AX",
+        "capital": "Mariehamn",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde6\ud83c\uddfd",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sv",
+            "name": "Swedish"
+          }
+        ],
+        "name": "\u00c5land"
+      },
+      {
+        "code": "AZ",
+        "capital": "Baku",
+        "currency": "AZN",
+        "emoji": "\ud83c\udde6\ud83c\uddff",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "az",
+            "name": "Azerbaijani"
+          }
+        ],
+        "name": "Azerbaijan"
+      },
+      {
+        "code": "BA",
+        "capital": "Sarajevo",
+        "currency": "BAM",
+        "emoji": "\ud83c\udde7\ud83c\udde6",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "bs",
+            "name": "Bosnian"
+          },
+          {
+            "code": "hr",
+            "name": "Croatian"
+          },
+          {
+            "code": "sr",
+            "name": "Serbian"
+          }
+        ],
+        "name": "Bosnia and Herzegovina"
+      },
+      {
+        "code": "BB",
+        "capital": "Bridgetown",
+        "currency": "BBD",
+        "emoji": "\ud83c\udde7\ud83c\udde7",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Barbados"
+      },
+      {
+        "code": "BD",
+        "capital": "Dhaka",
+        "currency": "BDT",
+        "emoji": "\ud83c\udde7\ud83c\udde9",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "bn",
+            "name": "Bengali"
+          }
+        ],
+        "name": "Bangladesh"
+      },
+      {
+        "code": "BE",
+        "capital": "Brussels",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde7\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "de",
+            "name": "German"
+          }
+        ],
+        "name": "Belgium"
+      },
+      {
+        "code": "BF",
+        "capital": "Ouagadougou",
+        "currency": "XOF",
+        "emoji": "\ud83c\udde7\ud83c\uddeb",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ff",
+            "name": "Peul"
+          }
+        ],
+        "name": "Burkina Faso"
+      },
+      {
+        "code": "BG",
+        "capital": "Sofia",
+        "currency": "BGN",
+        "emoji": "\ud83c\udde7\ud83c\uddec",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "bg",
+            "name": "Bulgarian"
+          }
+        ],
+        "name": "Bulgaria"
+      },
+      {
+        "code": "BH",
+        "capital": "Manama",
+        "currency": "BHD",
+        "emoji": "\ud83c\udde7\ud83c\udded",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Bahrain"
+      },
+      {
+        "code": "BI",
+        "capital": "Bujumbura",
+        "currency": "BIF",
+        "emoji": "\ud83c\udde7\ud83c\uddee",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "rn",
+            "name": "Kirundi"
+          }
+        ],
+        "name": "Burundi"
+      },
+      {
+        "code": "BJ",
+        "capital": "Porto-Novo",
+        "currency": "XOF",
+        "emoji": "\ud83c\udde7\ud83c\uddef",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Benin"
+      },
+      {
+        "code": "BL",
+        "capital": "Gustavia",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde7\ud83c\uddf1",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Saint Barth\u00e9lemy"
+      },
+      {
+        "code": "BM",
+        "capital": "Hamilton",
+        "currency": "BMD",
+        "emoji": "\ud83c\udde7\ud83c\uddf2",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Bermuda"
+      },
+      {
+        "code": "BN",
+        "capital": "Bandar Seri Begawan",
+        "currency": "BND",
+        "emoji": "\ud83c\udde7\ud83c\uddf3",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ms",
+            "name": "Malay"
+          }
+        ],
+        "name": "Brunei"
+      },
+      {
+        "code": "BO",
+        "capital": "Sucre",
+        "currency": "BOB,BOV",
+        "emoji": "\ud83c\udde7\ud83c\uddf4",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "ay",
+            "name": "Aymara"
+          },
+          {
+            "code": "qu",
+            "name": "Quechua"
+          }
+        ],
+        "name": "Bolivia"
+      },
+      {
+        "code": "BQ",
+        "capital": "Kralendijk",
+        "currency": "USD",
+        "emoji": "\ud83c\udde7\ud83c\uddf6",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          }
+        ],
+        "name": "Bonaire"
+      },
+      {
+        "code": "BR",
+        "capital": "Bras\u00edlia",
+        "currency": "BRL",
+        "emoji": "\ud83c\udde7\ud83c\uddf7",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Brazil"
+      },
+      {
+        "code": "BS",
+        "capital": "Nassau",
+        "currency": "BSD",
+        "emoji": "\ud83c\udde7\ud83c\uddf8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Bahamas"
+      },
+      {
+        "code": "BT",
+        "capital": "Thimphu",
+        "currency": "BTN,INR",
+        "emoji": "\ud83c\udde7\ud83c\uddf9",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "dz",
+            "name": "Dzongkha"
+          }
+        ],
+        "name": "Bhutan"
+      },
+      {
+        "code": "BV",
+        "capital": null,
+        "currency": "NOK",
+        "emoji": "\ud83c\udde7\ud83c\uddfb",
+        "continent": {
+          "code": "AN",
+          "name": "Antarctica"
+        },
+        "languages": [
+          {
+            "code": "no",
+            "name": "Norwegian"
+          },
+          {
+            "code": "nb",
+            "name": "Norwegian Bokm\u00e5l"
+          },
+          {
+            "code": "nn",
+            "name": "Norwegian Nynorsk"
+          }
+        ],
+        "name": "Bouvet Island"
+      },
+      {
+        "code": "BW",
+        "capital": "Gaborone",
+        "currency": "BWP",
+        "emoji": "\ud83c\udde7\ud83c\uddfc",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "tn",
+            "name": "Tswana"
+          }
+        ],
+        "name": "Botswana"
+      },
+      {
+        "code": "BY",
+        "capital": "Minsk",
+        "currency": "BYN",
+        "emoji": "\ud83c\udde7\ud83c\uddfe",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "be",
+            "name": "Belarusian"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Belarus"
+      },
+      {
+        "code": "BZ",
+        "capital": "Belmopan",
+        "currency": "BZD",
+        "emoji": "\ud83c\udde7\ud83c\uddff",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Belize"
+      },
+      {
+        "code": "CA",
+        "capital": "Ottawa",
+        "currency": "CAD",
+        "emoji": "\ud83c\udde8\ud83c\udde6",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Canada"
+      },
+      {
+        "code": "CC",
+        "capital": "West Island",
+        "currency": "AUD",
+        "emoji": "\ud83c\udde8\ud83c\udde8",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Cocos [Keeling] Islands"
+      },
+      {
+        "code": "CD",
+        "capital": "Kinshasa",
+        "currency": "CDF",
+        "emoji": "\ud83c\udde8\ud83c\udde9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ln",
+            "name": "Lingala"
+          },
+          {
+            "code": "kg",
+            "name": "Kongo"
+          },
+          {
+            "code": "sw",
+            "name": "Swahili"
+          },
+          {
+            "code": "lu",
+            "name": "Luba-Katanga"
+          }
+        ],
+        "name": "Democratic Republic of the Congo"
+      },
+      {
+        "code": "CF",
+        "capital": "Bangui",
+        "currency": "XAF",
+        "emoji": "\ud83c\udde8\ud83c\uddeb",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "sg",
+            "name": "Sango"
+          }
+        ],
+        "name": "Central African Republic"
+      },
+      {
+        "code": "CG",
+        "capital": "Brazzaville",
+        "currency": "XAF",
+        "emoji": "\ud83c\udde8\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ln",
+            "name": "Lingala"
+          }
+        ],
+        "name": "Republic of the Congo"
+      },
+      {
+        "code": "CH",
+        "capital": "Bern",
+        "currency": "CHE,CHF,CHW",
+        "emoji": "\ud83c\udde8\ud83c\udded",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "de",
+            "name": "German"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "it",
+            "name": "Italian"
+          }
+        ],
+        "name": "Switzerland"
+      },
+      {
+        "code": "CI",
+        "capital": "Yamoussoukro",
+        "currency": "XOF",
+        "emoji": "\ud83c\udde8\ud83c\uddee",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Ivory Coast"
+      },
+      {
+        "code": "CK",
+        "capital": "Avarua",
+        "currency": "NZD",
+        "emoji": "\ud83c\udde8\ud83c\uddf0",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Cook Islands"
+      },
+      {
+        "code": "CL",
+        "capital": "Santiago",
+        "currency": "CLF,CLP",
+        "emoji": "\ud83c\udde8\ud83c\uddf1",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Chile"
+      },
+      {
+        "code": "CM",
+        "capital": "Yaound\u00e9",
+        "currency": "XAF",
+        "emoji": "\ud83c\udde8\ud83c\uddf2",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Cameroon"
+      },
+      {
+        "code": "CN",
+        "capital": "Beijing",
+        "currency": "CNY",
+        "emoji": "\ud83c\udde8\ud83c\uddf3",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "zh",
+            "name": "Chinese"
+          }
+        ],
+        "name": "China"
+      },
+      {
+        "code": "CO",
+        "capital": "Bogot\u00e1",
+        "currency": "COP",
+        "emoji": "\ud83c\udde8\ud83c\uddf4",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Colombia"
+      },
+      {
+        "code": "CR",
+        "capital": "San Jos\u00e9",
+        "currency": "CRC",
+        "emoji": "\ud83c\udde8\ud83c\uddf7",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Costa Rica"
+      },
+      {
+        "code": "CU",
+        "capital": "Havana",
+        "currency": "CUC,CUP",
+        "emoji": "\ud83c\udde8\ud83c\uddfa",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Cuba"
+      },
+      {
+        "code": "CV",
+        "capital": "Praia",
+        "currency": "CVE",
+        "emoji": "\ud83c\udde8\ud83c\uddfb",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Cape Verde"
+      },
+      {
+        "code": "CW",
+        "capital": "Willemstad",
+        "currency": "ANG",
+        "emoji": "\ud83c\udde8\ud83c\uddfc",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          },
+          {
+            "code": "pa",
+            "name": "Panjabi / Punjabi"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Curacao"
+      },
+      {
+        "code": "CX",
+        "capital": "Flying Fish Cove",
+        "currency": "AUD",
+        "emoji": "\ud83c\udde8\ud83c\uddfd",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Christmas Island"
+      },
+      {
+        "code": "CY",
+        "capital": "Nicosia",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde8\ud83c\uddfe",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "el",
+            "name": "Greek"
+          },
+          {
+            "code": "tr",
+            "name": "Turkish"
+          },
+          {
+            "code": "hy",
+            "name": "Armenian"
+          }
+        ],
+        "name": "Cyprus"
+      },
+      {
+        "code": "CZ",
+        "capital": "Prague",
+        "currency": "CZK",
+        "emoji": "\ud83c\udde8\ud83c\uddff",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "cs",
+            "name": "Czech"
+          },
+          {
+            "code": "sk",
+            "name": "Slovak"
+          }
+        ],
+        "name": "Czech Republic"
+      },
+      {
+        "code": "DE",
+        "capital": "Berlin",
+        "currency": "EUR",
+        "emoji": "\ud83c\udde9\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "de",
+            "name": "German"
+          }
+        ],
+        "name": "Germany"
+      },
+      {
+        "code": "DJ",
+        "capital": "Djibouti",
+        "currency": "DJF",
+        "emoji": "\ud83c\udde9\ud83c\uddef",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Djibouti"
+      },
+      {
+        "code": "DK",
+        "capital": "Copenhagen",
+        "currency": "DKK",
+        "emoji": "\ud83c\udde9\ud83c\uddf0",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "da",
+            "name": "Danish"
+          }
+        ],
+        "name": "Denmark"
+      },
+      {
+        "code": "DM",
+        "capital": "Roseau",
+        "currency": "XCD",
+        "emoji": "\ud83c\udde9\ud83c\uddf2",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Dominica"
+      },
+      {
+        "code": "DO",
+        "capital": "Santo Domingo",
+        "currency": "DOP",
+        "emoji": "\ud83c\udde9\ud83c\uddf4",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Dominican Republic"
+      },
+      {
+        "code": "DZ",
+        "capital": "Algiers",
+        "currency": "DZD",
+        "emoji": "\ud83c\udde9\ud83c\uddff",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Algeria"
+      },
+      {
+        "code": "EC",
+        "capital": "Quito",
+        "currency": "USD",
+        "emoji": "\ud83c\uddea\ud83c\udde8",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Ecuador"
+      },
+      {
+        "code": "EE",
+        "capital": "Tallinn",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddea\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "et",
+            "name": "Estonian"
+          }
+        ],
+        "name": "Estonia"
+      },
+      {
+        "code": "EG",
+        "capital": "Cairo",
+        "currency": "EGP",
+        "emoji": "\ud83c\uddea\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Egypt"
+      },
+      {
+        "code": "EH",
+        "capital": "El Aai\u00fan",
+        "currency": "MAD,DZD,MRU",
+        "emoji": "\ud83c\uddea\ud83c\udded",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Western Sahara"
+      },
+      {
+        "code": "ER",
+        "capital": "Asmara",
+        "currency": "ERN",
+        "emoji": "\ud83c\uddea\ud83c\uddf7",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ti",
+            "name": "Tigrinya"
+          },
+          {
+            "code": "ar",
+            "name": "Arabic"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Eritrea"
+      },
+      {
+        "code": "ES",
+        "capital": "Madrid",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddea\ud83c\uddf8",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "eu",
+            "name": "Basque"
+          },
+          {
+            "code": "ca",
+            "name": "Catalan"
+          },
+          {
+            "code": "gl",
+            "name": "Galician"
+          },
+          {
+            "code": "oc",
+            "name": "Occitan"
+          }
+        ],
+        "name": "Spain"
+      },
+      {
+        "code": "ET",
+        "capital": "Addis Ababa",
+        "currency": "ETB",
+        "emoji": "\ud83c\uddea\ud83c\uddf9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "am",
+            "name": "Amharic"
+          }
+        ],
+        "name": "Ethiopia"
+      },
+      {
+        "code": "FI",
+        "capital": "Helsinki",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddeb\ud83c\uddee",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "fi",
+            "name": "Finnish"
+          },
+          {
+            "code": "sv",
+            "name": "Swedish"
+          }
+        ],
+        "name": "Finland"
+      },
+      {
+        "code": "FJ",
+        "capital": "Suva",
+        "currency": "FJD",
+        "emoji": "\ud83c\uddeb\ud83c\uddef",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fj",
+            "name": "Fijian"
+          },
+          {
+            "code": "hi",
+            "name": "Hindi"
+          },
+          {
+            "code": "ur",
+            "name": "Urdu"
+          }
+        ],
+        "name": "Fiji"
+      },
+      {
+        "code": "FK",
+        "capital": "Stanley",
+        "currency": "FKP",
+        "emoji": "\ud83c\uddeb\ud83c\uddf0",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Falkland Islands"
+      },
+      {
+        "code": "FM",
+        "capital": "Palikir",
+        "currency": "USD",
+        "emoji": "\ud83c\uddeb\ud83c\uddf2",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Micronesia"
+      },
+      {
+        "code": "FO",
+        "capital": "T\u00f3rshavn",
+        "currency": "DKK",
+        "emoji": "\ud83c\uddeb\ud83c\uddf4",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "fo",
+            "name": "Faroese"
+          }
+        ],
+        "name": "Faroe Islands"
+      },
+      {
+        "code": "FR",
+        "capital": "Paris",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddeb\ud83c\uddf7",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "France"
+      },
+      {
+        "code": "GA",
+        "capital": "Libreville",
+        "currency": "XAF",
+        "emoji": "\ud83c\uddec\ud83c\udde6",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Gabon"
+      },
+      {
+        "code": "GB",
+        "capital": "London",
+        "currency": "GBP",
+        "emoji": "\ud83c\uddec\ud83c\udde7",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "United Kingdom"
+      },
+      {
+        "code": "GD",
+        "capital": "St. George's",
+        "currency": "XCD",
+        "emoji": "\ud83c\uddec\ud83c\udde9",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Grenada"
+      },
+      {
+        "code": "GE",
+        "capital": "Tbilisi",
+        "currency": "GEL",
+        "emoji": "\ud83c\uddec\ud83c\uddea",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ka",
+            "name": "Georgian"
+          }
+        ],
+        "name": "Georgia"
+      },
+      {
+        "code": "GF",
+        "capital": "Cayenne",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddec\ud83c\uddeb",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "French Guiana"
+      },
+      {
+        "code": "GG",
+        "capital": "St. Peter Port",
+        "currency": "GBP",
+        "emoji": "\ud83c\uddec\ud83c\uddec",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Guernsey"
+      },
+      {
+        "code": "GH",
+        "capital": "Accra",
+        "currency": "GHS",
+        "emoji": "\ud83c\uddec\ud83c\udded",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Ghana"
+      },
+      {
+        "code": "GI",
+        "capital": "Gibraltar",
+        "currency": "GIP",
+        "emoji": "\ud83c\uddec\ud83c\uddee",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Gibraltar"
+      },
+      {
+        "code": "GL",
+        "capital": "Nuuk",
+        "currency": "DKK",
+        "emoji": "\ud83c\uddec\ud83c\uddf1",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "kl",
+            "name": "Greenlandic"
+          }
+        ],
+        "name": "Greenland"
+      },
+      {
+        "code": "GM",
+        "capital": "Banjul",
+        "currency": "GMD",
+        "emoji": "\ud83c\uddec\ud83c\uddf2",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Gambia"
+      },
+      {
+        "code": "GN",
+        "capital": "Conakry",
+        "currency": "GNF",
+        "emoji": "\ud83c\uddec\ud83c\uddf3",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ff",
+            "name": "Peul"
+          }
+        ],
+        "name": "Guinea"
+      },
+      {
+        "code": "GP",
+        "capital": "Basse-Terre",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddec\ud83c\uddf5",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Guadeloupe"
+      },
+      {
+        "code": "GQ",
+        "capital": "Malabo",
+        "currency": "XAF",
+        "emoji": "\ud83c\uddec\ud83c\uddf6",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Equatorial Guinea"
+      },
+      {
+        "code": "GR",
+        "capital": "Athens",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddec\ud83c\uddf7",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "el",
+            "name": "Greek"
+          }
+        ],
+        "name": "Greece"
+      },
+      {
+        "code": "GS",
+        "capital": "King Edward Point",
+        "currency": "GBP",
+        "emoji": "\ud83c\uddec\ud83c\uddf8",
+        "continent": {
+          "code": "AN",
+          "name": "Antarctica"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "South Georgia and the South Sandwich Islands"
+      },
+      {
+        "code": "GT",
+        "capital": "Guatemala City",
+        "currency": "GTQ",
+        "emoji": "\ud83c\uddec\ud83c\uddf9",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Guatemala"
+      },
+      {
+        "code": "GU",
+        "capital": "Hag\u00e5t\u00f1a",
+        "currency": "USD",
+        "emoji": "\ud83c\uddec\ud83c\uddfa",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ch",
+            "name": "Chamorro"
+          },
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Guam"
+      },
+      {
+        "code": "GW",
+        "capital": "Bissau",
+        "currency": "XOF",
+        "emoji": "\ud83c\uddec\ud83c\uddfc",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Guinea-Bissau"
+      },
+      {
+        "code": "GY",
+        "capital": "Georgetown",
+        "currency": "GYD",
+        "emoji": "\ud83c\uddec\ud83c\uddfe",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Guyana"
+      },
+      {
+        "code": "HK",
+        "capital": "City of Victoria",
+        "currency": "HKD",
+        "emoji": "\ud83c\udded\ud83c\uddf0",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "zh",
+            "name": "Chinese"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Hong Kong"
+      },
+      {
+        "code": "HM",
+        "capital": null,
+        "currency": "AUD",
+        "emoji": "\ud83c\udded\ud83c\uddf2",
+        "continent": {
+          "code": "AN",
+          "name": "Antarctica"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Heard Island and McDonald Islands"
+      },
+      {
+        "code": "HN",
+        "capital": "Tegucigalpa",
+        "currency": "HNL",
+        "emoji": "\ud83c\udded\ud83c\uddf3",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Honduras"
+      },
+      {
+        "code": "HR",
+        "capital": "Zagreb",
+        "currency": "HRK",
+        "emoji": "\ud83c\udded\ud83c\uddf7",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "hr",
+            "name": "Croatian"
+          }
+        ],
+        "name": "Croatia"
+      },
+      {
+        "code": "HT",
+        "capital": "Port-au-Prince",
+        "currency": "HTG,USD",
+        "emoji": "\ud83c\udded\ud83c\uddf9",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ht",
+            "name": "Haitian"
+          }
+        ],
+        "name": "Haiti"
+      },
+      {
+        "code": "HU",
+        "capital": "Budapest",
+        "currency": "HUF",
+        "emoji": "\ud83c\udded\ud83c\uddfa",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "hu",
+            "name": "Hungarian"
+          }
+        ],
+        "name": "Hungary"
+      },
+      {
+        "code": "ID",
+        "capital": "Jakarta",
+        "currency": "IDR",
+        "emoji": "\ud83c\uddee\ud83c\udde9",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "id",
+            "name": "Indonesian"
+          }
+        ],
+        "name": "Indonesia"
+      },
+      {
+        "code": "IE",
+        "capital": "Dublin",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddee\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "ga",
+            "name": "Irish"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Ireland"
+      },
+      {
+        "code": "IL",
+        "capital": "Jerusalem",
+        "currency": "ILS",
+        "emoji": "\ud83c\uddee\ud83c\uddf1",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "he",
+            "name": "Hebrew"
+          },
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Israel"
+      },
+      {
+        "code": "IM",
+        "capital": "Douglas",
+        "currency": "GBP",
+        "emoji": "\ud83c\uddee\ud83c\uddf2",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "gv",
+            "name": "Manx"
+          }
+        ],
+        "name": "Isle of Man"
+      },
+      {
+        "code": "IN",
+        "capital": "New Delhi",
+        "currency": "INR",
+        "emoji": "\ud83c\uddee\ud83c\uddf3",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "hi",
+            "name": "Hindi"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "India"
+      },
+      {
+        "code": "IO",
+        "capital": "Diego Garcia",
+        "currency": "USD",
+        "emoji": "\ud83c\uddee\ud83c\uddf4",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "British Indian Ocean Territory"
+      },
+      {
+        "code": "IQ",
+        "capital": "Baghdad",
+        "currency": "IQD",
+        "emoji": "\ud83c\uddee\ud83c\uddf6",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          },
+          {
+            "code": "ku",
+            "name": "Kurdish"
+          }
+        ],
+        "name": "Iraq"
+      },
+      {
+        "code": "IR",
+        "capital": "Tehran",
+        "currency": "IRR",
+        "emoji": "\ud83c\uddee\ud83c\uddf7",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "fa",
+            "name": "Persian"
+          }
+        ],
+        "name": "Iran"
+      },
+      {
+        "code": "IS",
+        "capital": "Reykjavik",
+        "currency": "ISK",
+        "emoji": "\ud83c\uddee\ud83c\uddf8",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "is",
+            "name": "Icelandic"
+          }
+        ],
+        "name": "Iceland"
+      },
+      {
+        "code": "IT",
+        "capital": "Rome",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddee\ud83c\uddf9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "it",
+            "name": "Italian"
+          }
+        ],
+        "name": "Italy"
+      },
+      {
+        "code": "JE",
+        "capital": "Saint Helier",
+        "currency": "GBP",
+        "emoji": "\ud83c\uddef\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Jersey"
+      },
+      {
+        "code": "JM",
+        "capital": "Kingston",
+        "currency": "JMD",
+        "emoji": "\ud83c\uddef\ud83c\uddf2",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Jamaica"
+      },
+      {
+        "code": "JO",
+        "capital": "Amman",
+        "currency": "JOD",
+        "emoji": "\ud83c\uddef\ud83c\uddf4",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Jordan"
+      },
+      {
+        "code": "JP",
+        "capital": "Tokyo",
+        "currency": "JPY",
+        "emoji": "\ud83c\uddef\ud83c\uddf5",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ja",
+            "name": "Japanese"
+          }
+        ],
+        "name": "Japan"
+      },
+      {
+        "code": "KE",
+        "capital": "Nairobi",
+        "currency": "KES",
+        "emoji": "\ud83c\uddf0\ud83c\uddea",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "sw",
+            "name": "Swahili"
+          }
+        ],
+        "name": "Kenya"
+      },
+      {
+        "code": "KG",
+        "capital": "Bishkek",
+        "currency": "KGS",
+        "emoji": "\ud83c\uddf0\ud83c\uddec",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ky",
+            "name": "Kyrgyz"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Kyrgyzstan"
+      },
+      {
+        "code": "KH",
+        "capital": "Phnom Penh",
+        "currency": "KHR",
+        "emoji": "\ud83c\uddf0\ud83c\udded",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "km",
+            "name": "Cambodian"
+          }
+        ],
+        "name": "Cambodia"
+      },
+      {
+        "code": "KI",
+        "capital": "South Tarawa",
+        "currency": "AUD",
+        "emoji": "\ud83c\uddf0\ud83c\uddee",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Kiribati"
+      },
+      {
+        "code": "KM",
+        "capital": "Moroni",
+        "currency": "KMF",
+        "emoji": "\ud83c\uddf0\ud83c\uddf2",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Comoros"
+      },
+      {
+        "code": "KN",
+        "capital": "Basseterre",
+        "currency": "XCD",
+        "emoji": "\ud83c\uddf0\ud83c\uddf3",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Saint Kitts and Nevis"
+      },
+      {
+        "code": "KP",
+        "capital": "Pyongyang",
+        "currency": "KPW",
+        "emoji": "\ud83c\uddf0\ud83c\uddf5",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ko",
+            "name": "Korean"
+          }
+        ],
+        "name": "North Korea"
+      },
+      {
+        "code": "KR",
+        "capital": "Seoul",
+        "currency": "KRW",
+        "emoji": "\ud83c\uddf0\ud83c\uddf7",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ko",
+            "name": "Korean"
+          }
+        ],
+        "name": "South Korea"
+      },
+      {
+        "code": "KW",
+        "capital": "Kuwait City",
+        "currency": "KWD",
+        "emoji": "\ud83c\uddf0\ud83c\uddfc",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Kuwait"
+      },
+      {
+        "code": "KY",
+        "capital": "George Town",
+        "currency": "KYD",
+        "emoji": "\ud83c\uddf0\ud83c\uddfe",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Cayman Islands"
+      },
+      {
+        "code": "KZ",
+        "capital": "Astana",
+        "currency": "KZT",
+        "emoji": "\ud83c\uddf0\ud83c\uddff",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "kk",
+            "name": "Kazakh"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Kazakhstan"
+      },
+      {
+        "code": "LA",
+        "capital": "Vientiane",
+        "currency": "LAK",
+        "emoji": "\ud83c\uddf1\ud83c\udde6",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "lo",
+            "name": "Laotian"
+          }
+        ],
+        "name": "Laos"
+      },
+      {
+        "code": "LB",
+        "capital": "Beirut",
+        "currency": "LBP",
+        "emoji": "\ud83c\uddf1\ud83c\udde7",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Lebanon"
+      },
+      {
+        "code": "LC",
+        "capital": "Castries",
+        "currency": "XCD",
+        "emoji": "\ud83c\uddf1\ud83c\udde8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Saint Lucia"
+      },
+      {
+        "code": "LI",
+        "capital": "Vaduz",
+        "currency": "CHF",
+        "emoji": "\ud83c\uddf1\ud83c\uddee",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "de",
+            "name": "German"
+          }
+        ],
+        "name": "Liechtenstein"
+      },
+      {
+        "code": "LK",
+        "capital": "Colombo",
+        "currency": "LKR",
+        "emoji": "\ud83c\uddf1\ud83c\uddf0",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "si",
+            "name": "Sinhalese"
+          },
+          {
+            "code": "ta",
+            "name": "Tamil"
+          }
+        ],
+        "name": "Sri Lanka"
+      },
+      {
+        "code": "LR",
+        "capital": "Monrovia",
+        "currency": "LRD",
+        "emoji": "\ud83c\uddf1\ud83c\uddf7",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Liberia"
+      },
+      {
+        "code": "LS",
+        "capital": "Maseru",
+        "currency": "LSL,ZAR",
+        "emoji": "\ud83c\uddf1\ud83c\uddf8",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "st",
+            "name": "Southern Sotho"
+          }
+        ],
+        "name": "Lesotho"
+      },
+      {
+        "code": "LT",
+        "capital": "Vilnius",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf1\ud83c\uddf9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "lt",
+            "name": "Lithuanian"
+          }
+        ],
+        "name": "Lithuania"
+      },
+      {
+        "code": "LU",
+        "capital": "Luxembourg",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf1\ud83c\uddfa",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "de",
+            "name": "German"
+          },
+          {
+            "code": "lb",
+            "name": "Luxembourgish"
+          }
+        ],
+        "name": "Luxembourg"
+      },
+      {
+        "code": "LV",
+        "capital": "Riga",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf1\ud83c\uddfb",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "lv",
+            "name": "Latvian"
+          }
+        ],
+        "name": "Latvia"
+      },
+      {
+        "code": "LY",
+        "capital": "Tripoli",
+        "currency": "LYD",
+        "emoji": "\ud83c\uddf1\ud83c\uddfe",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Libya"
+      },
+      {
+        "code": "MA",
+        "capital": "Rabat",
+        "currency": "MAD",
+        "emoji": "\ud83c\uddf2\ud83c\udde6",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Morocco"
+      },
+      {
+        "code": "MC",
+        "capital": "Monaco",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf2\ud83c\udde8",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Monaco"
+      },
+      {
+        "code": "MD",
+        "capital": "Chi\u0219in\u0103u",
+        "currency": "MDL",
+        "emoji": "\ud83c\uddf2\ud83c\udde9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "ro",
+            "name": "Romanian"
+          }
+        ],
+        "name": "Moldova"
+      },
+      {
+        "code": "ME",
+        "capital": "Podgorica",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf2\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sr",
+            "name": "Serbian"
+          },
+          {
+            "code": "bs",
+            "name": "Bosnian"
+          },
+          {
+            "code": "sq",
+            "name": "Albanian"
+          },
+          {
+            "code": "hr",
+            "name": "Croatian"
+          }
+        ],
+        "name": "Montenegro"
+      },
+      {
+        "code": "MF",
+        "capital": "Marigot",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf2\ud83c\uddeb",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "nl",
+            "name": "Dutch"
+          }
+        ],
+        "name": "Saint Martin"
+      },
+      {
+        "code": "MG",
+        "capital": "Antananarivo",
+        "currency": "MGA",
+        "emoji": "\ud83c\uddf2\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "mg",
+            "name": "Malagasy"
+          }
+        ],
+        "name": "Madagascar"
+      },
+      {
+        "code": "MH",
+        "capital": "Majuro",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf2\ud83c\udded",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "mh",
+            "name": "Marshallese"
+          }
+        ],
+        "name": "Marshall Islands"
+      },
+      {
+        "code": "MK",
+        "capital": "Skopje",
+        "currency": "MKD",
+        "emoji": "\ud83c\uddf2\ud83c\uddf0",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "mk",
+            "name": "Macedonian"
+          }
+        ],
+        "name": "North Macedonia"
+      },
+      {
+        "code": "ML",
+        "capital": "Bamako",
+        "currency": "XOF",
+        "emoji": "\ud83c\uddf2\ud83c\uddf1",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Mali"
+      },
+      {
+        "code": "MM",
+        "capital": "Naypyidaw",
+        "currency": "MMK",
+        "emoji": "\ud83c\uddf2\ud83c\uddf2",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "my",
+            "name": "Burmese"
+          }
+        ],
+        "name": "Myanmar [Burma]"
+      },
+      {
+        "code": "MN",
+        "capital": "Ulan Bator",
+        "currency": "MNT",
+        "emoji": "\ud83c\uddf2\ud83c\uddf3",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "mn",
+            "name": "Mongolian"
+          }
+        ],
+        "name": "Mongolia"
+      },
+      {
+        "code": "MO",
+        "capital": null,
+        "currency": "MOP",
+        "emoji": "\ud83c\uddf2\ud83c\uddf4",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "zh",
+            "name": "Chinese"
+          },
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Macao"
+      },
+      {
+        "code": "MP",
+        "capital": "Saipan",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf2\ud83c\uddf5",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ch",
+            "name": "Chamorro"
+          }
+        ],
+        "name": "Northern Mariana Islands"
+      },
+      {
+        "code": "MQ",
+        "capital": "Fort-de-France",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf2\ud83c\uddf6",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Martinique"
+      },
+      {
+        "code": "MR",
+        "capital": "Nouakchott",
+        "currency": "MRU",
+        "emoji": "\ud83c\uddf2\ud83c\uddf7",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Mauritania"
+      },
+      {
+        "code": "MS",
+        "capital": "Plymouth",
+        "currency": "XCD",
+        "emoji": "\ud83c\uddf2\ud83c\uddf8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Montserrat"
+      },
+      {
+        "code": "MT",
+        "capital": "Valletta",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf2\ud83c\uddf9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "mt",
+            "name": "Maltese"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Malta"
+      },
+      {
+        "code": "MU",
+        "capital": "Port Louis",
+        "currency": "MUR",
+        "emoji": "\ud83c\uddf2\ud83c\uddfa",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Mauritius"
+      },
+      {
+        "code": "MV",
+        "capital": "Mal\u00e9",
+        "currency": "MVR",
+        "emoji": "\ud83c\uddf2\ud83c\uddfb",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "dv",
+            "name": "Divehi"
+          }
+        ],
+        "name": "Maldives"
+      },
+      {
+        "code": "MW",
+        "capital": "Lilongwe",
+        "currency": "MWK",
+        "emoji": "\ud83c\uddf2\ud83c\uddfc",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ny",
+            "name": "Chichewa"
+          }
+        ],
+        "name": "Malawi"
+      },
+      {
+        "code": "MX",
+        "capital": "Mexico City",
+        "currency": "MXN",
+        "emoji": "\ud83c\uddf2\ud83c\uddfd",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Mexico"
+      },
+      {
+        "code": "MY",
+        "capital": "Kuala Lumpur",
+        "currency": "MYR",
+        "emoji": "\ud83c\uddf2\ud83c\uddfe",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ms",
+            "name": "Malay"
+          }
+        ],
+        "name": "Malaysia"
+      },
+      {
+        "code": "MZ",
+        "capital": "Maputo",
+        "currency": "MZN",
+        "emoji": "\ud83c\uddf2\ud83c\uddff",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Mozambique"
+      },
+      {
+        "code": "NA",
+        "capital": "Windhoek",
+        "currency": "NAD,ZAR",
+        "emoji": "\ud83c\uddf3\ud83c\udde6",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "af",
+            "name": "Afrikaans"
+          }
+        ],
+        "name": "Namibia"
+      },
+      {
+        "code": "NC",
+        "capital": "Noum\u00e9a",
+        "currency": "XPF",
+        "emoji": "\ud83c\uddf3\ud83c\udde8",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "New Caledonia"
+      },
+      {
+        "code": "NE",
+        "capital": "Niamey",
+        "currency": "XOF",
+        "emoji": "\ud83c\uddf3\ud83c\uddea",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Niger"
+      },
+      {
+        "code": "NF",
+        "capital": "Kingston",
+        "currency": "AUD",
+        "emoji": "\ud83c\uddf3\ud83c\uddeb",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Norfolk Island"
+      },
+      {
+        "code": "NG",
+        "capital": "Abuja",
+        "currency": "NGN",
+        "emoji": "\ud83c\uddf3\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Nigeria"
+      },
+      {
+        "code": "NI",
+        "capital": "Managua",
+        "currency": "NIO",
+        "emoji": "\ud83c\uddf3\ud83c\uddee",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Nicaragua"
+      },
+      {
+        "code": "NL",
+        "capital": "Amsterdam",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf3\ud83c\uddf1",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          }
+        ],
+        "name": "Netherlands"
+      },
+      {
+        "code": "NO",
+        "capital": "Oslo",
+        "currency": "NOK",
+        "emoji": "\ud83c\uddf3\ud83c\uddf4",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "no",
+            "name": "Norwegian"
+          },
+          {
+            "code": "nb",
+            "name": "Norwegian Bokm\u00e5l"
+          },
+          {
+            "code": "nn",
+            "name": "Norwegian Nynorsk"
+          }
+        ],
+        "name": "Norway"
+      },
+      {
+        "code": "NP",
+        "capital": "Kathmandu",
+        "currency": "NPR",
+        "emoji": "\ud83c\uddf3\ud83c\uddf5",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ne",
+            "name": "Nepali"
+          }
+        ],
+        "name": "Nepal"
+      },
+      {
+        "code": "NR",
+        "capital": "Yaren",
+        "currency": "AUD",
+        "emoji": "\ud83c\uddf3\ud83c\uddf7",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "na",
+            "name": "Nauruan"
+          }
+        ],
+        "name": "Nauru"
+      },
+      {
+        "code": "NU",
+        "capital": "Alofi",
+        "currency": "NZD",
+        "emoji": "\ud83c\uddf3\ud83c\uddfa",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Niue"
+      },
+      {
+        "code": "NZ",
+        "capital": "Wellington",
+        "currency": "NZD",
+        "emoji": "\ud83c\uddf3\ud83c\uddff",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "mi",
+            "name": "Maori"
+          }
+        ],
+        "name": "New Zealand"
+      },
+      {
+        "code": "OM",
+        "capital": "Muscat",
+        "currency": "OMR",
+        "emoji": "\ud83c\uddf4\ud83c\uddf2",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Oman"
+      },
+      {
+        "code": "PA",
+        "capital": "Panama City",
+        "currency": "PAB,USD",
+        "emoji": "\ud83c\uddf5\ud83c\udde6",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Panama"
+      },
+      {
+        "code": "PE",
+        "capital": "Lima",
+        "currency": "PEN",
+        "emoji": "\ud83c\uddf5\ud83c\uddea",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Peru"
+      },
+      {
+        "code": "PF",
+        "capital": "Papeet\u0113",
+        "currency": "XPF",
+        "emoji": "\ud83c\uddf5\ud83c\uddeb",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "French Polynesia"
+      },
+      {
+        "code": "PG",
+        "capital": "Port Moresby",
+        "currency": "PGK",
+        "emoji": "\ud83c\uddf5\ud83c\uddec",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Papua New Guinea"
+      },
+      {
+        "code": "PH",
+        "capital": "Manila",
+        "currency": "PHP",
+        "emoji": "\ud83c\uddf5\ud83c\udded",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Philippines"
+      },
+      {
+        "code": "PK",
+        "capital": "Islamabad",
+        "currency": "PKR",
+        "emoji": "\ud83c\uddf5\ud83c\uddf0",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ur",
+            "name": "Urdu"
+          }
+        ],
+        "name": "Pakistan"
+      },
+      {
+        "code": "PL",
+        "capital": "Warsaw",
+        "currency": "PLN",
+        "emoji": "\ud83c\uddf5\ud83c\uddf1",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "pl",
+            "name": "Polish"
+          }
+        ],
+        "name": "Poland"
+      },
+      {
+        "code": "PM",
+        "capital": "Saint-Pierre",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf5\ud83c\uddf2",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Saint Pierre and Miquelon"
+      },
+      {
+        "code": "PN",
+        "capital": "Adamstown",
+        "currency": "NZD",
+        "emoji": "\ud83c\uddf5\ud83c\uddf3",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Pitcairn Islands"
+      },
+      {
+        "code": "PR",
+        "capital": "San Juan",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf5\ud83c\uddf7",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Puerto Rico"
+      },
+      {
+        "code": "PS",
+        "capital": "Ramallah",
+        "currency": "ILS",
+        "emoji": "\ud83c\uddf5\ud83c\uddf8",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Palestine"
+      },
+      {
+        "code": "PT",
+        "capital": "Lisbon",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf5\ud83c\uddf9",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "Portugal"
+      },
+      {
+        "code": "PW",
+        "capital": "Ngerulmud",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf5\ud83c\uddfc",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Palau"
+      },
+      {
+        "code": "PY",
+        "capital": "Asunci\u00f3n",
+        "currency": "PYG",
+        "emoji": "\ud83c\uddf5\ud83c\uddfe",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          },
+          {
+            "code": "gn",
+            "name": "Guarani"
+          }
+        ],
+        "name": "Paraguay"
+      },
+      {
+        "code": "QA",
+        "capital": "Doha",
+        "currency": "QAR",
+        "emoji": "\ud83c\uddf6\ud83c\udde6",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Qatar"
+      },
+      {
+        "code": "RE",
+        "capital": "Saint-Denis",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf7\ud83c\uddea",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "R\u00e9union"
+      },
+      {
+        "code": "RO",
+        "capital": "Bucharest",
+        "currency": "RON",
+        "emoji": "\ud83c\uddf7\ud83c\uddf4",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "ro",
+            "name": "Romanian"
+          }
+        ],
+        "name": "Romania"
+      },
+      {
+        "code": "RS",
+        "capital": "Belgrade",
+        "currency": "RSD",
+        "emoji": "\ud83c\uddf7\ud83c\uddf8",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sr",
+            "name": "Serbian"
+          }
+        ],
+        "name": "Serbia"
+      },
+      {
+        "code": "RU",
+        "capital": "Moscow",
+        "currency": "RUB",
+        "emoji": "\ud83c\uddf7\ud83c\uddfa",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Russia"
+      },
+      {
+        "code": "RW",
+        "capital": "Kigali",
+        "currency": "RWF",
+        "emoji": "\ud83c\uddf7\ud83c\uddfc",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "rw",
+            "name": "Rwandi"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Rwanda"
+      },
+      {
+        "code": "SA",
+        "capital": "Riyadh",
+        "currency": "SAR",
+        "emoji": "\ud83c\uddf8\ud83c\udde6",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Saudi Arabia"
+      },
+      {
+        "code": "SB",
+        "capital": "Honiara",
+        "currency": "SBD",
+        "emoji": "\ud83c\uddf8\ud83c\udde7",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Solomon Islands"
+      },
+      {
+        "code": "SC",
+        "capital": "Victoria",
+        "currency": "SCR",
+        "emoji": "\ud83c\uddf8\ud83c\udde8",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Seychelles"
+      },
+      {
+        "code": "SD",
+        "capital": "Khartoum",
+        "currency": "SDG",
+        "emoji": "\ud83c\uddf8\ud83c\udde9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Sudan"
+      },
+      {
+        "code": "SE",
+        "capital": "Stockholm",
+        "currency": "SEK",
+        "emoji": "\ud83c\uddf8\ud83c\uddea",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sv",
+            "name": "Swedish"
+          }
+        ],
+        "name": "Sweden"
+      },
+      {
+        "code": "SG",
+        "capital": "Singapore",
+        "currency": "SGD",
+        "emoji": "\ud83c\uddf8\ud83c\uddec",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ms",
+            "name": "Malay"
+          },
+          {
+            "code": "ta",
+            "name": "Tamil"
+          },
+          {
+            "code": "zh",
+            "name": "Chinese"
+          }
+        ],
+        "name": "Singapore"
+      },
+      {
+        "code": "SH",
+        "capital": "Jamestown",
+        "currency": "SHP",
+        "emoji": "\ud83c\uddf8\ud83c\udded",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Saint Helena"
+      },
+      {
+        "code": "SI",
+        "capital": "Ljubljana",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf8\ud83c\uddee",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sl",
+            "name": "Slovenian"
+          }
+        ],
+        "name": "Slovenia"
+      },
+      {
+        "code": "SJ",
+        "capital": "Longyearbyen",
+        "currency": "NOK",
+        "emoji": "\ud83c\uddf8\ud83c\uddef",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "no",
+            "name": "Norwegian"
+          }
+        ],
+        "name": "Svalbard and Jan Mayen"
+      },
+      {
+        "code": "SK",
+        "capital": "Bratislava",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf8\ud83c\uddf0",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sk",
+            "name": "Slovak"
+          }
+        ],
+        "name": "Slovakia"
+      },
+      {
+        "code": "SL",
+        "capital": "Freetown",
+        "currency": "SLL",
+        "emoji": "\ud83c\uddf8\ud83c\uddf1",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Sierra Leone"
+      },
+      {
+        "code": "SM",
+        "capital": "City of San Marino",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf8\ud83c\uddf2",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "it",
+            "name": "Italian"
+          }
+        ],
+        "name": "San Marino"
+      },
+      {
+        "code": "SN",
+        "capital": "Dakar",
+        "currency": "XOF",
+        "emoji": "\ud83c\uddf8\ud83c\uddf3",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Senegal"
+      },
+      {
+        "code": "SO",
+        "capital": "Mogadishu",
+        "currency": "SOS",
+        "emoji": "\ud83c\uddf8\ud83c\uddf4",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "so",
+            "name": "Somalia"
+          },
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Somalia"
+      },
+      {
+        "code": "SR",
+        "capital": "Paramaribo",
+        "currency": "SRD",
+        "emoji": "\ud83c\uddf8\ud83c\uddf7",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          }
+        ],
+        "name": "Suriname"
+      },
+      {
+        "code": "SS",
+        "capital": "Juba",
+        "currency": "SSP",
+        "emoji": "\ud83c\uddf8\ud83c\uddf8",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "South Sudan"
+      },
+      {
+        "code": "ST",
+        "capital": "S\u00e3o Tom\u00e9",
+        "currency": "STN",
+        "emoji": "\ud83c\uddf8\ud83c\uddf9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe"
+      },
+      {
+        "code": "SV",
+        "capital": "San Salvador",
+        "currency": "SVC,USD",
+        "emoji": "\ud83c\uddf8\ud83c\uddfb",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "El Salvador"
+      },
+      {
+        "code": "SX",
+        "capital": "Philipsburg",
+        "currency": "ANG",
+        "emoji": "\ud83c\uddf8\ud83c\uddfd",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "nl",
+            "name": "Dutch"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Sint Maarten"
+      },
+      {
+        "code": "SY",
+        "capital": "Damascus",
+        "currency": "SYP",
+        "emoji": "\ud83c\uddf8\ud83c\uddfe",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Syria"
+      },
+      {
+        "code": "SZ",
+        "capital": "Lobamba",
+        "currency": "SZL",
+        "emoji": "\ud83c\uddf8\ud83c\uddff",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "ss",
+            "name": "Swati"
+          }
+        ],
+        "name": "Swaziland"
+      },
+      {
+        "code": "TC",
+        "capital": "Cockburn Town",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf9\ud83c\udde8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Turks and Caicos Islands"
+      },
+      {
+        "code": "TD",
+        "capital": "N'Djamena",
+        "currency": "XAF",
+        "emoji": "\ud83c\uddf9\ud83c\udde9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          },
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Chad"
+      },
+      {
+        "code": "TF",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddf9\ud83c\uddeb",
+        "continent": {
+          "code": "AN",
+          "name": "Antarctica"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "French Southern Territories"
+      },
+      {
+        "code": "TG",
+        "capital": "Lom\u00e9",
+        "currency": "XOF",
+        "emoji": "\ud83c\uddf9\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Togo"
+      },
+      {
+        "code": "TH",
+        "capital": "Bangkok",
+        "currency": "THB",
+        "emoji": "\ud83c\uddf9\ud83c\udded",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "th",
+            "name": "Thai"
+          }
+        ],
+        "name": "Thailand"
+      },
+      {
+        "code": "TJ",
+        "capital": "Dushanbe",
+        "currency": "TJS",
+        "emoji": "\ud83c\uddf9\ud83c\uddef",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "tg",
+            "name": "Tajik"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Tajikistan"
+      },
+      {
+        "code": "TK",
+        "capital": "Fakaofo",
+        "currency": "NZD",
+        "emoji": "\ud83c\uddf9\ud83c\uddf0",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Tokelau"
+      },
+      {
+        "code": "TL",
+        "capital": "Dili",
+        "currency": "USD",
+        "emoji": "\ud83c\uddf9\ud83c\uddf1",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "pt",
+            "name": "Portuguese"
+          }
+        ],
+        "name": "East Timor"
+      },
+      {
+        "code": "TM",
+        "capital": "Ashgabat",
+        "currency": "TMT",
+        "emoji": "\ud83c\uddf9\ud83c\uddf2",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "tk",
+            "name": "Turkmen"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Turkmenistan"
+      },
+      {
+        "code": "TN",
+        "capital": "Tunis",
+        "currency": "TND",
+        "emoji": "\ud83c\uddf9\ud83c\uddf3",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Tunisia"
+      },
+      {
+        "code": "TO",
+        "capital": "Nuku'alofa",
+        "currency": "TOP",
+        "emoji": "\ud83c\uddf9\ud83c\uddf4",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "to",
+            "name": "Tonga"
+          }
+        ],
+        "name": "Tonga"
+      },
+      {
+        "code": "TR",
+        "capital": "Ankara",
+        "currency": "TRY",
+        "emoji": "\ud83c\uddf9\ud83c\uddf7",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "tr",
+            "name": "Turkish"
+          }
+        ],
+        "name": "Turkey"
+      },
+      {
+        "code": "TT",
+        "capital": "Port of Spain",
+        "currency": "TTD",
+        "emoji": "\ud83c\uddf9\ud83c\uddf9",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Trinidad and Tobago"
+      },
+      {
+        "code": "TV",
+        "capital": "Funafuti",
+        "currency": "AUD",
+        "emoji": "\ud83c\uddf9\ud83c\uddfb",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Tuvalu"
+      },
+      {
+        "code": "TW",
+        "capital": "Taipei",
+        "currency": "TWD",
+        "emoji": "\ud83c\uddf9\ud83c\uddfc",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "zh",
+            "name": "Chinese"
+          }
+        ],
+        "name": "Taiwan"
+      },
+      {
+        "code": "TZ",
+        "capital": "Dodoma",
+        "currency": "TZS",
+        "emoji": "\ud83c\uddf9\ud83c\uddff",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "sw",
+            "name": "Swahili"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Tanzania"
+      },
+      {
+        "code": "UA",
+        "capital": "Kyiv",
+        "currency": "UAH",
+        "emoji": "\ud83c\uddfa\ud83c\udde6",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "uk",
+            "name": "Ukrainian"
+          }
+        ],
+        "name": "Ukraine"
+      },
+      {
+        "code": "UG",
+        "capital": "Kampala",
+        "currency": "UGX",
+        "emoji": "\ud83c\uddfa\ud83c\uddec",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "sw",
+            "name": "Swahili"
+          }
+        ],
+        "name": "Uganda"
+      },
+      {
+        "code": "UM",
+        "capital": null,
+        "currency": "USD",
+        "emoji": "\ud83c\uddfa\ud83c\uddf2",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "U.S. Minor Outlying Islands"
+      },
+      {
+        "code": "US",
+        "capital": "Washington D.C.",
+        "currency": "USD,USN,USS",
+        "emoji": "\ud83c\uddfa\ud83c\uddf8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "United States"
+      },
+      {
+        "code": "UY",
+        "capital": "Montevideo",
+        "currency": "UYI,UYU",
+        "emoji": "\ud83c\uddfa\ud83c\uddfe",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Uruguay"
+      },
+      {
+        "code": "UZ",
+        "capital": "Tashkent",
+        "currency": "UZS",
+        "emoji": "\ud83c\uddfa\ud83c\uddff",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "uz",
+            "name": "Uzbek"
+          },
+          {
+            "code": "ru",
+            "name": "Russian"
+          }
+        ],
+        "name": "Uzbekistan"
+      },
+      {
+        "code": "VA",
+        "capital": "Vatican City",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddfb\ud83c\udde6",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "it",
+            "name": "Italian"
+          },
+          {
+            "code": "la",
+            "name": "Latin"
+          }
+        ],
+        "name": "Vatican City"
+      },
+      {
+        "code": "VC",
+        "capital": "Kingstown",
+        "currency": "XCD",
+        "emoji": "\ud83c\uddfb\ud83c\udde8",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Saint Vincent and the Grenadines"
+      },
+      {
+        "code": "VE",
+        "capital": "Caracas",
+        "currency": "VES",
+        "emoji": "\ud83c\uddfb\ud83c\uddea",
+        "continent": {
+          "code": "SA",
+          "name": "South America"
+        },
+        "languages": [
+          {
+            "code": "es",
+            "name": "Spanish"
+          }
+        ],
+        "name": "Venezuela"
+      },
+      {
+        "code": "VG",
+        "capital": "Road Town",
+        "currency": "USD",
+        "emoji": "\ud83c\uddfb\ud83c\uddec",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "British Virgin Islands"
+      },
+      {
+        "code": "VI",
+        "capital": "Charlotte Amalie",
+        "currency": "USD",
+        "emoji": "\ud83c\uddfb\ud83c\uddee",
+        "continent": {
+          "code": "NA",
+          "name": "North America"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "U.S. Virgin Islands"
+      },
+      {
+        "code": "VN",
+        "capital": "Hanoi",
+        "currency": "VND",
+        "emoji": "\ud83c\uddfb\ud83c\uddf3",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "vi",
+            "name": "Vietnamese"
+          }
+        ],
+        "name": "Vietnam"
+      },
+      {
+        "code": "VU",
+        "capital": "Port Vila",
+        "currency": "VUV",
+        "emoji": "\ud83c\uddfb\ud83c\uddfa",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "bi",
+            "name": "Bislama"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Vanuatu"
+      },
+      {
+        "code": "WF",
+        "capital": "Mata-Utu",
+        "currency": "XPF",
+        "emoji": "\ud83c\uddfc\ud83c\uddeb",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Wallis and Futuna"
+      },
+      {
+        "code": "WS",
+        "capital": "Apia",
+        "currency": "WST",
+        "emoji": "\ud83c\uddfc\ud83c\uddf8",
+        "continent": {
+          "code": "OC",
+          "name": "Oceania"
+        },
+        "languages": [
+          {
+            "code": "sm",
+            "name": "Samoan"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Samoa"
+      },
+      {
+        "code": "XK",
+        "capital": "Pristina",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddfd\ud83c\uddf0",
+        "continent": {
+          "code": "EU",
+          "name": "Europe"
+        },
+        "languages": [
+          {
+            "code": "sq",
+            "name": "Albanian"
+          },
+          {
+            "code": "sr",
+            "name": "Serbian"
+          }
+        ],
+        "name": "Kosovo"
+      },
+      {
+        "code": "YE",
+        "capital": "Sana'a",
+        "currency": "YER",
+        "emoji": "\ud83c\uddfe\ud83c\uddea",
+        "continent": {
+          "code": "AS",
+          "name": "Asia"
+        },
+        "languages": [
+          {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        ],
+        "name": "Yemen"
+      },
+      {
+        "code": "YT",
+        "capital": "Mamoudzou",
+        "currency": "EUR",
+        "emoji": "\ud83c\uddfe\ud83c\uddf9",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "fr",
+            "name": "French"
+          }
+        ],
+        "name": "Mayotte"
+      },
+      {
+        "code": "ZA",
+        "capital": "Pretoria",
+        "currency": "ZAR",
+        "emoji": "\ud83c\uddff\ud83c\udde6",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "af",
+            "name": "Afrikaans"
+          },
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "nr",
+            "name": "South Ndebele"
+          },
+          {
+            "code": "st",
+            "name": "Southern Sotho"
+          },
+          {
+            "code": "ss",
+            "name": "Swati"
+          },
+          {
+            "code": "tn",
+            "name": "Tswana"
+          },
+          {
+            "code": "ts",
+            "name": "Tsonga"
+          },
+          {
+            "code": "ve",
+            "name": "Venda"
+          },
+          {
+            "code": "xh",
+            "name": "Xhosa"
+          },
+          {
+            "code": "zu",
+            "name": "Zulu"
+          }
+        ],
+        "name": "South Africa"
+      },
+      {
+        "code": "ZM",
+        "capital": "Lusaka",
+        "currency": "ZMW",
+        "emoji": "\ud83c\uddff\ud83c\uddf2",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          }
+        ],
+        "name": "Zambia"
+      },
+      {
+        "code": "ZW",
+        "capital": "Harare",
+        "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+        "emoji": "\ud83c\uddff\ud83c\uddfc",
+        "continent": {
+          "code": "AF",
+          "name": "Africa"
+        },
+        "languages": [
+          {
+            "code": "en",
+            "name": "English"
+          },
+          {
+            "code": "sn",
+            "name": "Shona"
+          },
+          {
+            "code": "nd",
+            "name": "North Ndebele"
+          }
+        ],
+        "name": "Zimbabwe"
+      }
+    ]
+  }
+}

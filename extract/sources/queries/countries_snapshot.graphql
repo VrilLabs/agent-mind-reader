@@ -1,0 +1,11 @@
+query Snapshot {
+  countries {
+    code
+    name
+    capital
+    currency
+    emoji
+    continent { code name }
+    languages { code name }
+  }
+}

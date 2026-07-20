@@ -1,0 +1,56 @@
+# connectors.yaml
+# Minimal config-driven GraphQL source registry.
+# One generic client handles both sources via plain HTTP POST.
+
+sources:
+  - id: countries:trevorblades
+    kind: graphql
+    endpoint: https://countries.trevorblades.com/graphql
+    auth: none
+    introspection: enabled
+    schema_file: schemas/countries_schema.json
+    operations:
+      - id: countries.snapshot.v1
+        file: sources/queries/countries_snapshot.graphql
+        variables: {}
+        cost_ceiling: 500
+
+  - id: github:api
+    kind: graphql
+    endpoint: https://api.github.com/graphql
+    auth: bearer_token_env:GITHUB_TOKEN
+    introspection: enabled_with_auth
+    schema_file: schemas/github_schema.graphql
+    schema_mirror: https://github.com/octokit/graphql-schema
+    operations:
+      - id: github.repository_snapshot.v1
+        file: sources/queries/github_repository_snapshot.graphql
+        variables: [owner, name, after]
+        cost_ceiling: 2500
+        max_page_size: 100
+
+  # ---- mind-read result extraction (the engine's primary purpose) ----
+  # The deep_extract harness ingests the mind-reader probe's OWN surfaces
+  # into a versioned, digest-tracked captures/ warehouse with token-knockout
+  # (don't re-process unchanged state). Countries/GitHub above are bundled
+  # test cases proving the generic GraphQL path.
+  - id: mind_reader:self
+    kind: mind_reader
+    endpoint: http://localhost:8787        # overridable via MIND_READER_SELF_URL env
+    auth: none
+    introspection: n/a
+    operations:
+      - id: harvest.v1
+        path: /harvest?format=json
+      - id: snapshot.v1
+        path: /snapshot?deep=1
+      - id: discover.v1
+        path: /discover
+      - id: routes.v1
+        path: /routes
+      - id: stacks.v1
+        path: /stacks
+      - id: net.v1
+        path: /net
+      - id: extract.v1
+        path: /extract

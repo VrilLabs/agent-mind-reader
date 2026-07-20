@@ -1,0 +1,10 @@
+{
+  "source_id": "countries:trevorblades",
+  "operation_id": "countries.snapshot.v1",
+  "endpoint": "https://countries.trevorblades.com/graphql",
+  "schema_digest": "fcbaa0523c76a3e39b6be91833581aed77eb238c4b446d5fb041e2ee73c05d1b",
+  "fetched_at": "2026-07-10T00:12:00-07:00",
+  "response_digest": "e778155a9c39a15ebd65a6b413394a746b78d37100e625377ad90a225f6624f3",
+  "record_count": 250,
+  "raw_response_path": "captures/countries_snapshot.json"
+}
