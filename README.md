@@ -12,7 +12,7 @@ IP:port — with auto-surface discovery, a one-shot harvest bundle,
 server-rendered dashboard confirmation, and a single stable supervised
 entrypoint.
 
-## What it Does
+## What it does
 
 - **One stable process.** `serve` runs the probe in the main thread (no
   crashing `tunnel_manager` thread wrapper) and **supervises** cloudflared as
@@ -88,7 +88,7 @@ python harvest.py dashboard https://<words>.trycloudflare.com --out dashboard.pn
 python harvest.py verify https://<words>.trycloudflare.com
 ```
 
-### Example Operator Agent Feedback
+### Example operator agent feedback
 
 <p align="center">
   <img src="assets/live.jpg" alt="Agent mind reading operating agent feedback" width="800">
