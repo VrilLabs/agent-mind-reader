@@ -94,6 +94,23 @@ python harvest.py verify https://<words>.trycloudflare.com
   <img src="assets/live.jpg" alt="Agent mind reading operating agent feedback" width="800">
 </p>
 
+## Example quick-start prompts
+
+Here are prompts anyone can use to easily start reading the minds of AI agents.
+The following prompts assume you've attached this repository as a tarball or zip file.
+
+### Observer agent prompt
+
+- `Install & attach the probe to yourself`
+
+### Operator agent prompt
+
+- `Install and read mind at URL <CLOUDFLARED_TUNNEL_URL>`
+- `Send me a screenshot of the dashboard`
+- `Use the `/discover` functionality`
+- `Use `/harvest`, return everything`
+- `Send raw result of <ENDPOINT_HERE>`
+
 ## Endpoints
 
 | Route | What it returns |
