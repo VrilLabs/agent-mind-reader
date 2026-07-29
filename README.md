@@ -179,7 +179,7 @@ Surfaces:
   new raw capture **only if the digest changed**. Re-capturing unchanged state
   is a no-op (token savings).
 - `POST /extract/run?action=introspect|run&source=...` — the original GraphQL
-  test-case path (countries/github).
+  test-case path (countries).
 
 Captures are written to `extract/captures/` and surface immediately via
 `/extract` and inside `/harvest`. The self-source endpoint defaults to
