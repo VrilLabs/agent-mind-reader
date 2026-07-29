@@ -31,7 +31,7 @@ entrypoint.
   (screenshot-able by any browser tool); `/dashboard.png` is server-rendered
   (PNG via matplotlib, SVG fallback — no hard dep).
 - **Portable client.** `harvest.py` is pure stdlib HTTP — runs anywhere
-  (Claude Code, Codex, Cursor, plain terminal), not just Perplexity.
+  (Claude Code, Codex, Cursor, plain terminal), Perplexity, etcetera.
 
 ## Architecture
 
@@ -138,9 +138,8 @@ MIND_READER_TOKEN=secret python serve.py serve --port 8787 --tunnel
 
 The package bundles `graphql_deep_extract` — a vendor-neutral deep-extraction
 harness whose **primary purpose here is to ingest the mind-reader's own
-results** with sha256-digest change detection (the "token knockout" primitive:
-don't re-process unchanged state). Countries/GitHub are kept as bundled test
-cases proving the generic GraphQL path.
+results** with sha256-digest change detection (don't re-process unchanged state). 
+Countries are kept as bundled test cases proving the generic GraphQL path.
 
 The `mind_reader:self` connector (in `extract/connectors.yaml`) maps operations
 to the probe's own surfaces:
@@ -161,7 +160,7 @@ Surfaces:
 - `POST /extract/run?action=capture&source=mind_reader:self&operation=snapshot.v1`
   (token-gated) — deep-extract a mind-read surface: GET it, hash it, persist a
   new raw capture **only if the digest changed**. Re-capturing unchanged state
-  is a no-op (token knockout).
+  is a no-op (token savings).
 - `POST /extract/run?action=introspect|run&source=...` — the original GraphQL
   test-case path (countries/github).
 
